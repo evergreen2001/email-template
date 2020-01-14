@@ -1,0 +1,33 @@
+body{
+    margin:0;
+    padding:0;
+
+
+}
+
+
+nav{
+
+    background: rgb(63,94,251);
+background: linear-gradient(90deg, rgba(63,94,251,1) 38%, rgba(81,12,83,0.9164040616246498) 100%);
+}
+
+.section{
+
+    padding-top:none !important;
+}
+
+
+
+
+
+.fa{
+font-size:30px !important;
+margin:20px;
+color:white
+}
+.greeting {
+
+font-weight: bolder !important;
+font-size:15px;
+}
